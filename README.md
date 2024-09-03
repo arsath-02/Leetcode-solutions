@@ -9,4 +9,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/arsath-02/Leetcode-solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
+## Database
+|  |
+| ------- |
+| [0620-not-boring-movies](https://github.com/arsath-02/Leetcode-solutions/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
