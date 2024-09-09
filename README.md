@@ -24,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/arsath-02/Leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0415-add-strings](https://github.com/arsath-02/Leetcode-solutions/tree/master/0415-add-strings) |
+## Array
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/arsath-02/Leetcode-solutions/tree/master/0027-remove-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/arsath-02/Leetcode-solutions/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
