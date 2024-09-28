@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/arsath-02/Leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/arsath-02/Leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -93,4 +94,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/arsath-02/Leetcode-solutions/tree/master/0645-set-mismatch) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/arsath-02/Leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/arsath-02/Leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
