@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/arsath-02/Leetcode-solutions/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/arsath-02/Leetcode-solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1524-string-matching-in-an-array](https://github.com/arsath-02/Leetcode-solutions/tree/master/1524-string-matching-in-an-array) |
+| [1777-determine-if-two-strings-are-close](https://github.com/arsath-02/Leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/arsath-02/Leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1812-reformat-phone-number](https://github.com/arsath-02/Leetcode-solutions/tree/master/1812-reformat-phone-number) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/arsath-02/Leetcode-solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/arsath-02/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1256-rank-transform-of-an-array](https://github.com/arsath-02/Leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/arsath-02/Leetcode-solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1777-determine-if-two-strings-are-close](https://github.com/arsath-02/Leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/arsath-02/Leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/arsath-02/Leetcode-solutions/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3541-report-spam-message](https://github.com/arsath-02/Leetcode-solutions/tree/master/3541-report-spam-message) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/arsath-02/Leetcode-solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1777-determine-if-two-strings-are-close](https://github.com/arsath-02/Leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/arsath-02/Leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Stack
 |  |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0645-set-mismatch](https://github.com/arsath-02/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1256-rank-transform-of-an-array](https://github.com/arsath-02/Leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
+| [1777-determine-if-two-strings-are-close](https://github.com/arsath-02/Leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/arsath-02/Leetcode-solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2728-sum-in-a-matrix](https://github.com/arsath-02/Leetcode-solutions/tree/master/2728-sum-in-a-matrix) |
 ## Design
