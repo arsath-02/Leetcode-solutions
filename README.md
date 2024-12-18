@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/arsath-02/Leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1256-rank-transform-of-an-array](https://github.com/arsath-02/Leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/arsath-02/Leetcode-solutions/tree/master/1524-string-matching-in-an-array) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/arsath-02/Leetcode-solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1580-shuffle-the-array](https://github.com/arsath-02/Leetcode-solutions/tree/master/1580-shuffle-the-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/arsath-02/Leetcode-solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/arsath-02/Leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/arsath-02/Leetcode-solutions/tree/master/0341-flatten-nested-list-iterator) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/arsath-02/Leetcode-solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/arsath-02/Leetcode-solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/arsath-02/Leetcode-solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -280,4 +282,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/arsath-02/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/arsath-02/Leetcode-solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
