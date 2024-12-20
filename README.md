@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/arsath-02/Leetcode-solutions/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/arsath-02/Leetcode-solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1524-string-matching-in-an-array](https://github.com/arsath-02/Leetcode-solutions/tree/master/1524-string-matching-in-an-array) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/arsath-02/Leetcode-solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1777-determine-if-two-strings-are-close](https://github.com/arsath-02/Leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/arsath-02/Leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1812-reformat-phone-number](https://github.com/arsath-02/Leetcode-solutions/tree/master/1812-reformat-phone-number) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/arsath-02/Leetcode-solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0633-sum-of-square-numbers](https://github.com/arsath-02/Leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/arsath-02/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/arsath-02/Leetcode-solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/arsath-02/Leetcode-solutions/tree/master/2232-adding-spaces-to-a-string) |
 ## Hash Table
 |  |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0812-rotate-string](https://github.com/arsath-02/Leetcode-solutions/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/arsath-02/Leetcode-solutions/tree/master/1524-string-matching-in-an-array) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/arsath-02/Leetcode-solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Matrix
 |  |
 | ------- |
