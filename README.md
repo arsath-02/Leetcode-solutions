@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/arsath-02/Leetcode-solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2235-capitalize-the-title](https://github.com/arsath-02/Leetcode-solutions/tree/master/2235-capitalize-the-title) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/arsath-02/Leetcode-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2341-count-prefixes-of-a-given-string](https://github.com/arsath-02/Leetcode-solutions/tree/master/2341-count-prefixes-of-a-given-string) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/arsath-02/Leetcode-solutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/arsath-02/Leetcode-solutions/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3541-report-spam-message](https://github.com/arsath-02/Leetcode-solutions/tree/master/3541-report-spam-message) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/arsath-02/Leetcode-solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/arsath-02/Leetcode-solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/arsath-02/Leetcode-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2341-count-prefixes-of-a-given-string](https://github.com/arsath-02/Leetcode-solutions/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2728-sum-in-a-matrix](https://github.com/arsath-02/Leetcode-solutions/tree/master/2728-sum-in-a-matrix) |
 | [3541-report-spam-message](https://github.com/arsath-02/Leetcode-solutions/tree/master/3541-report-spam-message) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/arsath-02/Leetcode-solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
