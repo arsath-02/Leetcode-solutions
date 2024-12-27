@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/arsath-02/Leetcode-solutions/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/arsath-02/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/arsath-02/Leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/arsath-02/Leetcode-solutions/tree/master/0035-search-insert-position) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/arsath-02/Leetcode-solutions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/arsath-02/Leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/arsath-02/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/arsath-02/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/arsath-02/Leetcode-solutions/tree/master/0018-4sum) |
 | [0645-set-mismatch](https://github.com/arsath-02/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1256-rank-transform-of-an-array](https://github.com/arsath-02/Leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/arsath-02/Leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
