@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/arsath-02/Leetcode-solutions/tree/master/0415-add-strings) |
 | [0477-total-hamming-distance](https://github.com/arsath-02/Leetcode-solutions/tree/master/0477-total-hamming-distance) |
 | [0633-sum-of-square-numbers](https://github.com/arsath-02/Leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
+| [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/arsath-02/Leetcode-solutions/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/arsath-02/Leetcode-solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Array
 |  |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2122-count-special-quadruplets](https://github.com/arsath-02/Leetcode-solutions/tree/master/2122-count-special-quadruplets) |
+| [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/arsath-02/Leetcode-solutions/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 ## Union Find
 |  |
 | ------- |
