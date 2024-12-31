@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/arsath-02/Leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0187-repeated-dna-sequences](https://github.com/arsath-02/Leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0415-add-strings](https://github.com/arsath-02/Leetcode-solutions/tree/master/0415-add-strings) |
+| [0516-longest-palindromic-subsequence](https://github.com/arsath-02/Leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/arsath-02/Leetcode-solutions/tree/master/0520-detect-capital) |
 | [0680-valid-palindrome-ii](https://github.com/arsath-02/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0812-rotate-string](https://github.com/arsath-02/Leetcode-solutions/tree/master/0812-rotate-string) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/arsath-02/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/arsath-02/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/arsath-02/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/arsath-02/Leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [1063-best-sightseeing-pair](https://github.com/arsath-02/Leetcode-solutions/tree/master/1063-best-sightseeing-pair) |
 ## String Matching
 |  |
