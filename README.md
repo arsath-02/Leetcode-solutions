@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/arsath-02/Leetcode-solutions/tree/master/0415-add-strings) |
 | [0477-total-hamming-distance](https://github.com/arsath-02/Leetcode-solutions/tree/master/0477-total-hamming-distance) |
 | [0633-sum-of-square-numbers](https://github.com/arsath-02/Leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
+| [1236-n-th-tribonacci-number](https://github.com/arsath-02/Leetcode-solutions/tree/master/1236-n-th-tribonacci-number) |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/arsath-02/Leetcode-solutions/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/arsath-02/Leetcode-solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Array
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/arsath-02/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/arsath-02/Leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [1063-best-sightseeing-pair](https://github.com/arsath-02/Leetcode-solutions/tree/master/1063-best-sightseeing-pair) |
+| [1236-n-th-tribonacci-number](https://github.com/arsath-02/Leetcode-solutions/tree/master/1236-n-th-tribonacci-number) |
 ## String Matching
 |  |
 | ------- |
@@ -362,4 +364,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/arsath-02/Leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [1236-n-th-tribonacci-number](https://github.com/arsath-02/Leetcode-solutions/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
