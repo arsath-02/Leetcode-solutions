@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/arsath-02/Leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/arsath-02/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/arsath-02/Leetcode-solutions/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/arsath-02/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/arsath-02/Leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/arsath-02/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0384-shuffle-an-array](https://github.com/arsath-02/Leetcode-solutions/tree/master/0384-shuffle-an-array) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/arsath-02/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/arsath-02/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/arsath-02/Leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/arsath-02/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arsath-02/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/arsath-02/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/arsath-02/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -356,4 +358,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/arsath-02/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/arsath-02/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
