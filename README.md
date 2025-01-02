@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/arsath-02/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/arsath-02/Leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/arsath-02/Leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0040-combination-sum-ii](https://github.com/arsath-02/Leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/arsath-02/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/arsath-02/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/arsath-02/Leetcode-solutions/tree/master/0053-maximum-subarray) |
@@ -365,4 +366,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/arsath-02/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/arsath-02/Leetcode-solutions/tree/master/1236-n-th-tribonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/arsath-02/Leetcode-solutions/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
