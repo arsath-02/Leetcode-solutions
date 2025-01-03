@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/arsath-02/Leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/arsath-02/Leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1063-best-sightseeing-pair](https://github.com/arsath-02/Leetcode-solutions/tree/master/1063-best-sightseeing-pair) |
+| [1072-next-greater-node-in-linked-list](https://github.com/arsath-02/Leetcode-solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1127-last-stone-weight](https://github.com/arsath-02/Leetcode-solutions/tree/master/1127-last-stone-weight) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/arsath-02/Leetcode-solutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1256-rank-transform-of-an-array](https://github.com/arsath-02/Leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/arsath-02/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/arsath-02/Leetcode-solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/arsath-02/Leetcode-solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1072-next-greater-node-in-linked-list](https://github.com/arsath-02/Leetcode-solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/arsath-02/Leetcode-solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Depth-First Search
 |  |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/arsath-02/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/arsath-02/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/arsath-02/Leetcode-solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [1072-next-greater-node-in-linked-list](https://github.com/arsath-02/Leetcode-solutions/tree/master/1072-next-greater-node-in-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/arsath-02/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/arsath-02/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/arsath-02/Leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [1072-next-greater-node-in-linked-list](https://github.com/arsath-02/Leetcode-solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/arsath-02/Leetcode-solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Enumeration
 |  |
