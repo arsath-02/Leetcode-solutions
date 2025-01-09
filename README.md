@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/arsath-02/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/arsath-02/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/arsath-02/Leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0063-unique-paths-ii](https://github.com/arsath-02/Leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/arsath-02/Leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arsath-02/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/arsath-02/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/arsath-02/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/arsath-02/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/arsath-02/Leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0063-unique-paths-ii](https://github.com/arsath-02/Leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/arsath-02/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arsath-02/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/arsath-02/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/arsath-02/Leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [2728-sum-in-a-matrix](https://github.com/arsath-02/Leetcode-solutions/tree/master/2728-sum-in-a-matrix) |
 ## Binary Tree
 |  |
