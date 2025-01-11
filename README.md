@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arsath-02/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/arsath-02/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/arsath-02/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/arsath-02/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/arsath-02/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/arsath-02/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/arsath-02/Leetcode-solutions/tree/master/0216-combination-sum-iii) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/arsath-02/Leetcode-solutions/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/arsath-02/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/arsath-02/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/arsath-02/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/arsath-02/Leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arsath-02/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/arsath-02/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/arsath-02/Leetcode-solutions/tree/master/0169-majority-element) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/arsath-02/Leetcode-solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1777-determine-if-two-strings-are-close](https://github.com/arsath-02/Leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/arsath-02/Leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/arsath-02/Leetcode-solutions/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/arsath-02/Leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/arsath-02/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arsath-02/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0645-set-mismatch](https://github.com/arsath-02/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1256-rank-transform-of-an-array](https://github.com/arsath-02/Leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
@@ -358,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/arsath-02/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/arsath-02/Leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/arsath-02/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/arsath-02/Leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/arsath-02/Leetcode-solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Heap (Priority Queue)
