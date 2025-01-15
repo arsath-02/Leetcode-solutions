@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2639-separate-the-digits-in-an-array](https://github.com/arsath-02/Leetcode-solutions/tree/master/2639-separate-the-digits-in-an-array) |
 | [2728-sum-in-a-matrix](https://github.com/arsath-02/Leetcode-solutions/tree/master/2728-sum-in-a-matrix) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/arsath-02/Leetcode-solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/arsath-02/Leetcode-solutions/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Database
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arsath-02/Leetcode-solutions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3541-report-spam-message](https://github.com/arsath-02/Leetcode-solutions/tree/master/3541-report-spam-message) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/arsath-02/Leetcode-solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/arsath-02/Leetcode-solutions/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Two Pointers
 |  |
 | ------- |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/arsath-02/Leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0200-number-of-islands](https://github.com/arsath-02/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [2728-sum-in-a-matrix](https://github.com/arsath-02/Leetcode-solutions/tree/master/2728-sum-in-a-matrix) |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/arsath-02/Leetcode-solutions/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Binary Tree
 |  |
 | ------- |
