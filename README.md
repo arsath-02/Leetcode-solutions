@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-number-of-arithmetic-triplets](https://github.com/arsath-02/Leetcode-solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2486-most-frequent-even-element](https://github.com/arsath-02/Leetcode-solutions/tree/master/2486-most-frequent-even-element) |
 | [2639-separate-the-digits-in-an-array](https://github.com/arsath-02/Leetcode-solutions/tree/master/2639-separate-the-digits-in-an-array) |
+| [2714-left-and-right-sum-differences](https://github.com/arsath-02/Leetcode-solutions/tree/master/2714-left-and-right-sum-differences) |
 | [2728-sum-in-a-matrix](https://github.com/arsath-02/Leetcode-solutions/tree/master/2728-sum-in-a-matrix) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arsath-02/Leetcode-solutions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3541-report-spam-message](https://github.com/arsath-02/Leetcode-solutions/tree/master/3541-report-spam-message) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/arsath-02/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/arsath-02/Leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [2714-left-and-right-sum-differences](https://github.com/arsath-02/Leetcode-solutions/tree/master/2714-left-and-right-sum-differences) |
 ## Monotonic Stack
 |  |
 | ------- |
