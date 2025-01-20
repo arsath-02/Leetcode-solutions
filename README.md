@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/arsath-02/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0384-shuffle-an-array](https://github.com/arsath-02/Leetcode-solutions/tree/master/0384-shuffle-an-array) |
 | [0416-partition-equal-subset-sum](https://github.com/arsath-02/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/arsath-02/Leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0477-total-hamming-distance](https://github.com/arsath-02/Leetcode-solutions/tree/master/0477-total-hamming-distance) |
 | [0485-max-consecutive-ones](https://github.com/arsath-02/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/arsath-02/Leetcode-solutions/tree/master/0493-reverse-pairs) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/arsath-02/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/arsath-02/Leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arsath-02/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/arsath-02/Leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/arsath-02/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/arsath-02/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/arsath-02/Leetcode-solutions/tree/master/0645-set-mismatch) |
