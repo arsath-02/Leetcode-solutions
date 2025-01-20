@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/arsath-02/Leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/arsath-02/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/arsath-02/Leetcode-solutions/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/arsath-02/Leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/arsath-02/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/arsath-02/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/arsath-02/Leetcode-solutions/tree/master/0053-maximum-subarray) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/arsath-02/Leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/arsath-02/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/arsath-02/Leetcode-solutions/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/arsath-02/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
