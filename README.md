@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1670-patients-with-a-condition](https://github.com/arsath-02/Leetcode-solutions/tree/master/1670-patients-with-a-condition) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/arsath-02/Leetcode-solutions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/arsath-02/Leetcode-solutions/tree/master/1801-average-time-of-process-per-machine) |
+| [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/arsath-02/Leetcode-solutions/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [2087-confirmation-rate](https://github.com/arsath-02/Leetcode-solutions/tree/master/2087-confirmation-rate) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/arsath-02/Leetcode-solutions/tree/master/2127-employees-whose-manager-left-the-company) |
 ## Math
