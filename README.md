@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/arsath-02/Leetcode-solutions/tree/master/0477-total-hamming-distance) |
 | [0633-sum-of-square-numbers](https://github.com/arsath-02/Leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [1236-n-th-tribonacci-number](https://github.com/arsath-02/Leetcode-solutions/tree/master/1236-n-th-tribonacci-number) |
+| [2083-three-divisors](https://github.com/arsath-02/Leetcode-solutions/tree/master/2083-three-divisors) |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/arsath-02/Leetcode-solutions/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 | [2630-alternating-digit-sum](https://github.com/arsath-02/Leetcode-solutions/tree/master/2630-alternating-digit-sum) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/arsath-02/Leetcode-solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2083-three-divisors](https://github.com/arsath-02/Leetcode-solutions/tree/master/2083-three-divisors) |
 | [2122-count-special-quadruplets](https://github.com/arsath-02/Leetcode-solutions/tree/master/2122-count-special-quadruplets) |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/arsath-02/Leetcode-solutions/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 | [2442-number-of-arithmetic-triplets](https://github.com/arsath-02/Leetcode-solutions/tree/master/2442-number-of-arithmetic-triplets) |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/arsath-02/Leetcode-solutions/tree/master/0258-add-digits) |
+| [2083-three-divisors](https://github.com/arsath-02/Leetcode-solutions/tree/master/2083-three-divisors) |
 ## Counting Sort
 |  |
 | ------- |
