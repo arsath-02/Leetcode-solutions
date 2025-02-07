@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/arsath-02/Leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/arsath-02/Leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/arsath-02/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/arsath-02/Leetcode-solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/arsath-02/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/arsath-02/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/arsath-02/Leetcode-solutions/tree/master/0054-spiral-matrix) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/arsath-02/Leetcode-solutions/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/arsath-02/Leetcode-solutions/tree/master/0046-permutations) |
 | [0113-path-sum-ii](https://github.com/arsath-02/Leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/arsath-02/Leetcode-solutions/tree/master/0216-combination-sum-iii) |
 ## Binary Indexed Tree
