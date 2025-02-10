@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-count-prefixes-of-a-given-string](https://github.com/arsath-02/Leetcode-solutions/tree/master/2341-count-prefixes-of-a-given-string) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/arsath-02/Leetcode-solutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/arsath-02/Leetcode-solutions/tree/master/3408-count-the-number-of-special-characters-i) |
+| [3447-clear-digits](https://github.com/arsath-02/Leetcode-solutions/tree/master/3447-clear-digits) |
 | [3541-report-spam-message](https://github.com/arsath-02/Leetcode-solutions/tree/master/3541-report-spam-message) |
 ## Simulation
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/arsath-02/Leetcode-solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2639-separate-the-digits-in-an-array](https://github.com/arsath-02/Leetcode-solutions/tree/master/2639-separate-the-digits-in-an-array) |
 | [2728-sum-in-a-matrix](https://github.com/arsath-02/Leetcode-solutions/tree/master/2728-sum-in-a-matrix) |
+| [3447-clear-digits](https://github.com/arsath-02/Leetcode-solutions/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/arsath-02/Leetcode-solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/arsath-02/Leetcode-solutions/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Database
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/arsath-02/Leetcode-solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/arsath-02/Leetcode-solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/arsath-02/Leetcode-solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [3447-clear-digits](https://github.com/arsath-02/Leetcode-solutions/tree/master/3447-clear-digits) |
 ## Depth-First Search
 |  |
 | ------- |
