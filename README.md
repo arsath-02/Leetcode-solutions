@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/arsath-02/Leetcode-solutions/tree/master/0520-detect-capital) |
 | [0680-valid-palindrome-ii](https://github.com/arsath-02/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0812-rotate-string](https://github.com/arsath-02/Leetcode-solutions/tree/master/0812-rotate-string) |
+| [0874-backspace-string-compare](https://github.com/arsath-02/Leetcode-solutions/tree/master/0874-backspace-string-compare) |
 | [0952-word-subsets](https://github.com/arsath-02/Leetcode-solutions/tree/master/0952-word-subsets) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/arsath-02/Leetcode-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/arsath-02/Leetcode-solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/arsath-02/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/arsath-02/Leetcode-solutions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/arsath-02/Leetcode-solutions/tree/master/0415-add-strings) |
+| [0874-backspace-string-compare](https://github.com/arsath-02/Leetcode-solutions/tree/master/0874-backspace-string-compare) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/arsath-02/Leetcode-solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2232-adding-spaces-to-a-string](https://github.com/arsath-02/Leetcode-solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2639-separate-the-digits-in-an-array](https://github.com/arsath-02/Leetcode-solutions/tree/master/2639-separate-the-digits-in-an-array) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/arsath-02/Leetcode-solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0633-sum-of-square-numbers](https://github.com/arsath-02/Leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/arsath-02/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0874-backspace-string-compare](https://github.com/arsath-02/Leetcode-solutions/tree/master/0874-backspace-string-compare) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/arsath-02/Leetcode-solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/arsath-02/Leetcode-solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/arsath-02/Leetcode-solutions/tree/master/2232-adding-spaces-to-a-string) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/arsath-02/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/arsath-02/Leetcode-solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/arsath-02/Leetcode-solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0874-backspace-string-compare](https://github.com/arsath-02/Leetcode-solutions/tree/master/0874-backspace-string-compare) |
 | [1072-next-greater-node-in-linked-list](https://github.com/arsath-02/Leetcode-solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/arsath-02/Leetcode-solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [3447-clear-digits](https://github.com/arsath-02/Leetcode-solutions/tree/master/3447-clear-digits) |
