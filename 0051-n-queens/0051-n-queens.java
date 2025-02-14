@@ -1,6 +1,3 @@
-import java.util.ArrayList;
-import java.util.List;
-
 class Solution {
     public boolean canPlace(int col, int row, List<String> curr) {
         for (int i = row - 1; i >= 0; i--) {
