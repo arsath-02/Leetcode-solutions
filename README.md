@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/arsath-02/Leetcode-solutions/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/arsath-02/Leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0874-backspace-string-compare](https://github.com/arsath-02/Leetcode-solutions/tree/master/0874-backspace-string-compare) |
+| [1310-watering-plants](https://github.com/arsath-02/Leetcode-solutions/tree/master/1310-watering-plants) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/arsath-02/Leetcode-solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2232-adding-spaces-to-a-string](https://github.com/arsath-02/Leetcode-solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2639-separate-the-digits-in-an-array](https://github.com/arsath-02/Leetcode-solutions/tree/master/2639-separate-the-digits-in-an-array) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/arsath-02/Leetcode-solutions/tree/master/1127-last-stone-weight) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/arsath-02/Leetcode-solutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1256-rank-transform-of-an-array](https://github.com/arsath-02/Leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
+| [1310-watering-plants](https://github.com/arsath-02/Leetcode-solutions/tree/master/1310-watering-plants) |
 | [1364-tuple-with-same-product](https://github.com/arsath-02/Leetcode-solutions/tree/master/1364-tuple-with-same-product) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/arsath-02/Leetcode-solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1524-string-matching-in-an-array](https://github.com/arsath-02/Leetcode-solutions/tree/master/1524-string-matching-in-an-array) |
