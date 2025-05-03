@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1310-watering-plants](https://github.com/arsath-02/Leetcode-solutions/tree/master/1310-watering-plants) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/arsath-02/Leetcode-solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2232-adding-spaces-to-a-string](https://github.com/arsath-02/Leetcode-solutions/tree/master/2232-adding-spaces-to-a-string) |
+| [2551-apply-operations-to-an-array](https://github.com/arsath-02/Leetcode-solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/arsath-02/Leetcode-solutions/tree/master/2639-separate-the-digits-in-an-array) |
 | [2728-sum-in-a-matrix](https://github.com/arsath-02/Leetcode-solutions/tree/master/2728-sum-in-a-matrix) |
 | [3447-clear-digits](https://github.com/arsath-02/Leetcode-solutions/tree/master/3447-clear-digits) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-count-prefixes-of-a-given-string](https://github.com/arsath-02/Leetcode-solutions/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2442-number-of-arithmetic-triplets](https://github.com/arsath-02/Leetcode-solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2486-most-frequent-even-element](https://github.com/arsath-02/Leetcode-solutions/tree/master/2486-most-frequent-even-element) |
+| [2551-apply-operations-to-an-array](https://github.com/arsath-02/Leetcode-solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/arsath-02/Leetcode-solutions/tree/master/2639-separate-the-digits-in-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/arsath-02/Leetcode-solutions/tree/master/2714-left-and-right-sum-differences) |
 | [2728-sum-in-a-matrix](https://github.com/arsath-02/Leetcode-solutions/tree/master/2728-sum-in-a-matrix) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/arsath-02/Leetcode-solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/arsath-02/Leetcode-solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2442-number-of-arithmetic-triplets](https://github.com/arsath-02/Leetcode-solutions/tree/master/2442-number-of-arithmetic-triplets) |
+| [2551-apply-operations-to-an-array](https://github.com/arsath-02/Leetcode-solutions/tree/master/2551-apply-operations-to-an-array) |
 ## Hash Table
 |  |
 | ------- |
