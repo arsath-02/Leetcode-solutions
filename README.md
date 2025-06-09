@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/arsath-02/Leetcode-solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/arsath-02/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/arsath-02/Leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/arsath-02/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/arsath-02/Leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/arsath-02/Leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/arsath-02/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/arsath-02/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/arsath-02/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/arsath-02/Leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/arsath-02/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/arsath-02/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/arsath-02/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/arsath-02/Leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/arsath-02/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/arsath-02/Leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/arsath-02/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arsath-02/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
