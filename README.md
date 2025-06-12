@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/arsath-02/Leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/arsath-02/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0187-repeated-dna-sequences](https://github.com/arsath-02/Leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
+| [0401-binary-watch](https://github.com/arsath-02/Leetcode-solutions/tree/master/0401-binary-watch) |
 | [0477-total-hamming-distance](https://github.com/arsath-02/Leetcode-solutions/tree/master/0477-total-hamming-distance) |
 | [0645-set-mismatch](https://github.com/arsath-02/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/arsath-02/Leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -549,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/arsath-02/Leetcode-solutions/tree/master/0051-n-queens) |
 | [0113-path-sum-ii](https://github.com/arsath-02/Leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/arsath-02/Leetcode-solutions/tree/master/0216-combination-sum-iii) |
+| [0401-binary-watch](https://github.com/arsath-02/Leetcode-solutions/tree/master/0401-binary-watch) |
 ## Binary Indexed Tree
 |  |
 | ------- |
