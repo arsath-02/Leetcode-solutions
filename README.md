@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/arsath-02/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/arsath-02/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/arsath-02/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/arsath-02/Leetcode-solutions/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/arsath-02/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/arsath-02/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/arsath-02/Leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/arsath-02/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/arsath-02/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/arsath-02/Leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/arsath-02/Leetcode-solutions/tree/master/0143-reorder-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/arsath-02/Leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/arsath-02/Leetcode-solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/arsath-02/Leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/arsath-02/Leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/arsath-02/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/arsath-02/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/arsath-02/Leetcode-solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/arsath-02/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/arsath-02/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/arsath-02/Leetcode-solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/arsath-02/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/arsath-02/Leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/arsath-02/Leetcode-solutions/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/arsath-02/Leetcode-solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/arsath-02/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/arsath-02/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Binary Search
