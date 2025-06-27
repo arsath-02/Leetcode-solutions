@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/arsath-02/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/arsath-02/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/arsath-02/Leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0816-design-hashset](https://github.com/arsath-02/Leetcode-solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/arsath-02/Leetcode-solutions/tree/master/0817-design-hashmap) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/arsath-02/Leetcode-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/arsath-02/Leetcode-solutions/tree/master/0907-koko-eating-bananas) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/arsath-02/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/arsath-02/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/arsath-02/Leetcode-solutions/tree/master/0645-set-mismatch) |
+| [0816-design-hashset](https://github.com/arsath-02/Leetcode-solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/arsath-02/Leetcode-solutions/tree/master/0817-design-hashmap) |
 | [0952-word-subsets](https://github.com/arsath-02/Leetcode-solutions/tree/master/0952-word-subsets) |
 | [1256-rank-transform-of-an-array](https://github.com/arsath-02/Leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/arsath-02/Leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/arsath-02/Leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/arsath-02/Leetcode-solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0816-design-hashset](https://github.com/arsath-02/Leetcode-solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/arsath-02/Leetcode-solutions/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/arsath-02/Leetcode-solutions/tree/master/0838-design-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/arsath-02/Leetcode-solutions/tree/master/1072-next-greater-node-in-linked-list) |
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/arsath-02/Leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0284-peeking-iterator](https://github.com/arsath-02/Leetcode-solutions/tree/master/0284-peeking-iterator) |
 | [0341-flatten-nested-list-iterator](https://github.com/arsath-02/Leetcode-solutions/tree/master/0341-flatten-nested-list-iterator) |
+| [0816-design-hashset](https://github.com/arsath-02/Leetcode-solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/arsath-02/Leetcode-solutions/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/arsath-02/Leetcode-solutions/tree/master/0838-design-linked-list) |
 ## Queue
@@ -465,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/arsath-02/Leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0572-subtree-of-another-tree](https://github.com/arsath-02/Leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+| [0816-design-hashset](https://github.com/arsath-02/Leetcode-solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/arsath-02/Leetcode-solutions/tree/master/0817-design-hashmap) |
 ## Divide and Conquer
 |  |
