@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/arsath-02/Leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/arsath-02/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/arsath-02/Leetcode-solutions/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/arsath-02/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/arsath-02/Leetcode-solutions/tree/master/0258-add-digits) |
 | [0384-shuffle-an-array](https://github.com/arsath-02/Leetcode-solutions/tree/master/0384-shuffle-an-array) |
 | [0415-add-strings](https://github.com/arsath-02/Leetcode-solutions/tree/master/0415-add-strings) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/arsath-02/Leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/arsath-02/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0187-repeated-dna-sequences](https://github.com/arsath-02/Leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
+| [0231-power-of-two](https://github.com/arsath-02/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0401-binary-watch](https://github.com/arsath-02/Leetcode-solutions/tree/master/0401-binary-watch) |
 | [0477-total-hamming-distance](https://github.com/arsath-02/Leetcode-solutions/tree/master/0477-total-hamming-distance) |
 | [0645-set-mismatch](https://github.com/arsath-02/Leetcode-solutions/tree/master/0645-set-mismatch) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/arsath-02/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/arsath-02/Leetcode-solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/arsath-02/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/arsath-02/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/arsath-02/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Binary Search
 |  |
