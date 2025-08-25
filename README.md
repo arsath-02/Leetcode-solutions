@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/arsath-02/Leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/arsath-02/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/arsath-02/Leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+| [0687-longest-univalue-path](https://github.com/arsath-02/Leetcode-solutions/tree/master/0687-longest-univalue-path) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/arsath-02/Leetcode-solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/arsath-02/Leetcode-solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0904-leaf-similar-trees](https://github.com/arsath-02/Leetcode-solutions/tree/master/0904-leaf-similar-trees) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/arsath-02/Leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/arsath-02/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/arsath-02/Leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+| [0687-longest-univalue-path](https://github.com/arsath-02/Leetcode-solutions/tree/master/0687-longest-univalue-path) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/arsath-02/Leetcode-solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/arsath-02/Leetcode-solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0904-leaf-similar-trees](https://github.com/arsath-02/Leetcode-solutions/tree/master/0904-leaf-similar-trees) |
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/arsath-02/Leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/arsath-02/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/arsath-02/Leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+| [0687-longest-univalue-path](https://github.com/arsath-02/Leetcode-solutions/tree/master/0687-longest-univalue-path) |
 | [0904-leaf-similar-trees](https://github.com/arsath-02/Leetcode-solutions/tree/master/0904-leaf-similar-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/arsath-02/Leetcode-solutions/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Prefix Sum
