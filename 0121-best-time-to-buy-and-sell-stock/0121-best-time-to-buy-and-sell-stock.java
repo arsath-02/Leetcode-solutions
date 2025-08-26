@@ -1,15 +1,16 @@
 class Solution {
     public int maxProfit(int[] prices) {
-        int n = prices.length;
-        int sell = 0;
+        int maxProfit = 0;
         int buy = Integer.MAX_VALUE;
-        for(int i=0; i< n ;i++){
-            if(prices[i]<buy){
-                buy = prices[i];
-            }
-            sell=Math.max(sell,prices[i]-buy);
-        } 
-        // System.out.print(min);
-        return sell;
+        int i = 0; 
+
+        // Greedy Approach
+        // TC: O(n);
+        // SC: O(1);
+        for(int price:prices){
+            buy = Math.min(price , buy);
+            maxProfit =Math.max(maxProfit,price - buy);
+        }
+        return maxProfit;
     }
 }
