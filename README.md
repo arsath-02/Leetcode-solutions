@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/arsath-02/Leetcode-solutions/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 | [2630-alternating-digit-sum](https://github.com/arsath-02/Leetcode-solutions/tree/master/2630-alternating-digit-sum) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/arsath-02/Leetcode-solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3227-find-missing-and-repeated-values](https://github.com/arsath-02/Leetcode-solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/arsath-02/Leetcode-solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Array
 |  |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2639-separate-the-digits-in-an-array](https://github.com/arsath-02/Leetcode-solutions/tree/master/2639-separate-the-digits-in-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/arsath-02/Leetcode-solutions/tree/master/2714-left-and-right-sum-differences) |
 | [2728-sum-in-a-matrix](https://github.com/arsath-02/Leetcode-solutions/tree/master/2728-sum-in-a-matrix) |
+| [3227-find-missing-and-repeated-values](https://github.com/arsath-02/Leetcode-solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arsath-02/Leetcode-solutions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/arsath-02/Leetcode-solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/arsath-02/Leetcode-solutions/tree/master/3429-special-array-i) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2122-count-special-quadruplets](https://github.com/arsath-02/Leetcode-solutions/tree/master/2122-count-special-quadruplets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/arsath-02/Leetcode-solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2486-most-frequent-even-element](https://github.com/arsath-02/Leetcode-solutions/tree/master/2486-most-frequent-even-element) |
+| [3227-find-missing-and-repeated-values](https://github.com/arsath-02/Leetcode-solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arsath-02/Leetcode-solutions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/arsath-02/Leetcode-solutions/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3541-report-spam-message](https://github.com/arsath-02/Leetcode-solutions/tree/master/3541-report-spam-message) |
@@ -568,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/arsath-02/Leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/arsath-02/Leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [2728-sum-in-a-matrix](https://github.com/arsath-02/Leetcode-solutions/tree/master/2728-sum-in-a-matrix) |
+| [3227-find-missing-and-repeated-values](https://github.com/arsath-02/Leetcode-solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/arsath-02/Leetcode-solutions/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Binary Tree
 |  |
