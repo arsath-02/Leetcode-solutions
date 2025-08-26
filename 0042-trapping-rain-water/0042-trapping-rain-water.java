@@ -1,24 +1,32 @@
 class Solution {
     public int trap(int[] height) {
+        int l = 0 ;
         int n = height.length;
-        int l[] = new int[n];
-        int r[] = new int[n];
-        int min =0;
-        for(int i=0;i<n;i++){
-            min = Math.max(min,height[i]);
-            l[i]=min;
-            System.out.print(min);
+        int r = n - 1;
+        int TrappedWater = 0;
+        int Lmax = 0;
+        int Rmax = 0;
+        while(l<r){
+            if(height[l] < height[r]){
+                if(height[l] >= Lmax){
+                    Lmax = height[l];
+                }
+                else{
+                    TrappedWater += Lmax - height[l]; 
+                }
+                l++;
+            }
+            else{
+                if(height[r] >= Rmax){
+                    Rmax = height[r];
+                }
+                else{
+                    TrappedWater += Rmax - height[r];
+                }
+                r--;
+            }
         }
-        int max=0;
-        for(int i=n-1;i>=0;i--){
-            max=Math.max(max,height[i]);
-            r[i]=max;
-            System.out.print(max);
-        }
-        int trap=0;
-        for(int i=0;i<n;i++){
-            trap+=(Math.min(l[i],r[i])-height[i]);
-        }
-        return trap;
+        return TrappedWater;
+
     }
 }
