@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/arsath-02/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/arsath-02/Leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/arsath-02/Leetcode-solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/arsath-02/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/arsath-02/Leetcode-solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/arsath-02/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/arsath-02/Leetcode-solutions/tree/master/0258-add-digits) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/arsath-02/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/arsath-02/Leetcode-solutions/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/arsath-02/Leetcode-solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/arsath-02/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/arsath-02/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/arsath-02/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arsath-02/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/arsath-02/Leetcode-solutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/arsath-02/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/arsath-02/Leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
+| [0202-happy-number](https://github.com/arsath-02/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/arsath-02/Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arsath-02/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/arsath-02/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
