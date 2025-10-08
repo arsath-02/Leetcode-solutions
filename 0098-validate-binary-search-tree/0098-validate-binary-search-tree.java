@@ -22,8 +22,6 @@ class Solution {
 
         if(root.val <= min || root.val >= max) return false;
 
-        return(bst(root.left,min,root.val) && bst(root.right,root.val,max));
-
-        
+        return bst(root.left,min,root.val) && bst(root.right,root.val,max);
     }
 }
