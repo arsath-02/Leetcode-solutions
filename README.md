@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2630-alternating-digit-sum](https://github.com/arsath-02/Leetcode-solutions/tree/master/2630-alternating-digit-sum) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/arsath-02/Leetcode-solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3227-find-missing-and-repeated-values](https://github.com/arsath-02/Leetcode-solutions/tree/master/3227-find-missing-and-repeated-values) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/arsath-02/Leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/arsath-02/Leetcode-solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Array
 |  |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arsath-02/Leetcode-solutions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/arsath-02/Leetcode-solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/arsath-02/Leetcode-solutions/tree/master/3429-special-array-i) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/arsath-02/Leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3541-report-spam-message](https://github.com/arsath-02/Leetcode-solutions/tree/master/3541-report-spam-message) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/arsath-02/Leetcode-solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/arsath-02/Leetcode-solutions/tree/master/3708-zigzag-grid-traversal-with-skip) |
