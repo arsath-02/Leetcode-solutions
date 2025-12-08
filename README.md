@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/arsath-02/Leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/arsath-02/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0187-repeated-dna-sequences](https://github.com/arsath-02/Leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
+| [0190-reverse-bits](https://github.com/arsath-02/Leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/arsath-02/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/arsath-02/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0401-binary-watch](https://github.com/arsath-02/Leetcode-solutions/tree/master/0401-binary-watch) |
@@ -589,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/arsath-02/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/arsath-02/Leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/arsath-02/Leetcode-solutions/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/arsath-02/Leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/arsath-02/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/arsath-02/Leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/arsath-02/Leetcode-solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
