@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/arsath-02/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/arsath-02/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/arsath-02/Leetcode-solutions/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/arsath-02/Leetcode-solutions/tree/master/0139-word-break) |
 | [0171-excel-sheet-column-number](https://github.com/arsath-02/Leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0187-repeated-dna-sequences](https://github.com/arsath-02/Leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0415-add-strings](https://github.com/arsath-02/Leetcode-solutions/tree/master/0415-add-strings) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arsath-02/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/arsath-02/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/arsath-02/Leetcode-solutions/tree/master/0130-surrounded-regions) |
+| [0139-word-break](https://github.com/arsath-02/Leetcode-solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/arsath-02/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/arsath-02/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arsath-02/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/arsath-02/Leetcode-solutions/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/arsath-02/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/arsath-02/Leetcode-solutions/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/arsath-02/Leetcode-solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/arsath-02/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/arsath-02/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/arsath-02/Leetcode-solutions/tree/master/0146-lru-cache) |
@@ -406,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/arsath-02/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/arsath-02/Leetcode-solutions/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/arsath-02/Leetcode-solutions/tree/master/0386-lexicographical-numbers) |
 ## Linked List
 |  |
@@ -607,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/arsath-02/Leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/arsath-02/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arsath-02/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/arsath-02/Leetcode-solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/arsath-02/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/arsath-02/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/arsath-02/Leetcode-solutions/tree/master/0322-coin-change) |
@@ -704,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/arsath-02/Leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/arsath-02/Leetcode-solutions/tree/master/0139-word-break) |
 | [1236-n-th-tribonacci-number](https://github.com/arsath-02/Leetcode-solutions/tree/master/1236-n-th-tribonacci-number) |
 ## Backtracking
 |  |
