@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/arsath-02/Leetcode-solutions/tree/master/0139-word-break) |
 | [0171-excel-sheet-column-number](https://github.com/arsath-02/Leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0187-repeated-dna-sequences](https://github.com/arsath-02/Leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
+| [0242-valid-anagram](https://github.com/arsath-02/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0415-add-strings](https://github.com/arsath-02/Leetcode-solutions/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/arsath-02/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/arsath-02/Leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/arsath-02/Leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/arsath-02/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/arsath-02/Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/arsath-02/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/arsath-02/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arsath-02/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/arsath-02/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/arsath-02/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/arsath-02/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/arsath-02/Leetcode-solutions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/arsath-02/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/arsath-02/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/arsath-02/Leetcode-solutions/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arsath-02/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
