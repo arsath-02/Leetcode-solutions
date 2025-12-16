@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0284-peeking-iterator](https://github.com/arsath-02/Leetcode-solutions/tree/master/0284-peeking-iterator) |
 | [0300-longest-increasing-subsequence](https://github.com/arsath-02/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/arsath-02/Leetcode-solutions/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/arsath-02/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arsath-02/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0384-shuffle-an-array](https://github.com/arsath-02/Leetcode-solutions/tree/master/0384-shuffle-an-array) |
 | [0416-partition-equal-subset-sum](https://github.com/arsath-02/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/arsath-02/Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/arsath-02/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/arsath-02/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/arsath-02/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arsath-02/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/arsath-02/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/arsath-02/Leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/arsath-02/Leetcode-solutions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/arsath-02/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [1364-tuple-with-same-product](https://github.com/arsath-02/Leetcode-solutions/tree/master/1364-tuple-with-same-product) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/arsath-02/Leetcode-solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1777-determine-if-two-strings-are-close](https://github.com/arsath-02/Leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
@@ -491,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/arsath-02/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/arsath-02/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/arsath-02/Leetcode-solutions/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/arsath-02/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arsath-02/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/arsath-02/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/arsath-02/Leetcode-solutions/tree/master/0645-set-mismatch) |
@@ -603,12 +607,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/arsath-02/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/arsath-02/Leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/arsath-02/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/arsath-02/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/arsath-02/Leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/arsath-02/Leetcode-solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/arsath-02/Leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/arsath-02/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [1127-last-stone-weight](https://github.com/arsath-02/Leetcode-solutions/tree/master/1127-last-stone-weight) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/arsath-02/Leetcode-solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2728-sum-in-a-matrix](https://github.com/arsath-02/Leetcode-solutions/tree/master/2728-sum-in-a-matrix) |
@@ -616,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quickselect
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/arsath-02/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/arsath-02/Leetcode-solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Dynamic Programming
 |  |
@@ -811,4 +818,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/arsath-02/Leetcode-solutions/tree/master/0062-unique-paths) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/arsath-02/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
