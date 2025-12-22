@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/arsath-02/Leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/arsath-02/Leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1812-reformat-phone-number](https://github.com/arsath-02/Leetcode-solutions/tree/master/1812-reformat-phone-number) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/arsath-02/Leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/arsath-02/Leetcode-solutions/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/arsath-02/Leetcode-solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/arsath-02/Leetcode-solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/arsath-02/Leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0874-backspace-string-compare](https://github.com/arsath-02/Leetcode-solutions/tree/master/0874-backspace-string-compare) |
 | [1310-watering-plants](https://github.com/arsath-02/Leetcode-solutions/tree/master/1310-watering-plants) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/arsath-02/Leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/arsath-02/Leetcode-solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2232-adding-spaces-to-a-string](https://github.com/arsath-02/Leetcode-solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/arsath-02/Leetcode-solutions/tree/master/2551-apply-operations-to-an-array) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/arsath-02/Leetcode-solutions/tree/master/0874-backspace-string-compare) |
 | [1072-next-greater-node-in-linked-list](https://github.com/arsath-02/Leetcode-solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/arsath-02/Leetcode-solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/arsath-02/Leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/arsath-02/Leetcode-solutions/tree/master/3447-clear-digits) |
 ## Depth-First Search
 |  |
